@@ -1,0 +1,13 @@
+body {
+	background-color: lightblue;
+}
+
+h1{
+	color:grey;
+	margin-left:20px;
+}
+
+img{
+	float:right;
+	margin: 0 0 10px 10px;
+}
